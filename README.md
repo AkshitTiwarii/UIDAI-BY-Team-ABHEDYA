@@ -66,9 +66,3 @@ UIDAI/
 ├── requirements.txt
 └── README.md
 ```
-
-## Team
-Team ABHEDYA
-
-## License
-This project is developed for the UIDAI Hackathon.
