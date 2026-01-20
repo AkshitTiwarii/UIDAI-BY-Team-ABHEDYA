@@ -2,7 +2,7 @@
 
 **BY - Team ABHEDYA**
 
-** Our ML-Model = https://github.com/ayushrewd/ARIMA-ML-MODEL-__-TEAM-ABHEDYA/tree/main/uidai_ml**
+**Our ML-Model = https://github.com/ayushrewd/ARIMA-ML-MODEL-__-TEAM-ABHEDYA/tree/main/uidai_ml**
 
 ## Overview
 This project analyzes Aadhaar enrolment, demographic updates, and biometric updates data to provide insights for UIDAI's service optimization and policy decisions.
