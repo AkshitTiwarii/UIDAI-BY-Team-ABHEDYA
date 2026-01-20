@@ -1,5 +1,6 @@
 # UIDAI Hackathon - Aadhaar Data Analysis
-**Team ABHEDYA**
+
+**BY - Team ABHEDYA**
 
 ## Overview
 This project analyzes Aadhaar enrolment, demographic updates, and biometric updates data to provide insights for UIDAI's service optimization and policy decisions.
